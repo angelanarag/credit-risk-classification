@@ -19,11 +19,6 @@ Create a Logistic Regression Model
 4. Confirm how well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels
 
 Credit Risk Analysis Report
-Analysis Overview: 
-[Explain the purpose of this analysis.]
-
-Results: 
-[Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.]
-
-Summary: 
-[Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.]
+1. Analysis Overview: [Explain the purpose of this analysis.]
+2. Results: [Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.]
+3. Summary: [Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.]
